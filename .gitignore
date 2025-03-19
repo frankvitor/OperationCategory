@@ -1,0 +1,15 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.tmp
+*.log
+*.bak
+*.ncb
+*.aps
+*.class
+*.cache
+*.csproj.user
+*.db
+*.DS_Store
